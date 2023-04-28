@@ -28,11 +28,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript"  width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" width="50" height="50">  
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.png" title="figma" width="60" height="50">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.png" title="figma" width="70" height="50">
     <img src="https://cdn.worldvectorlogo.com/logos/coreldraw-gs2019-2.svg" title="crelDraw" width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" width="50" height="50">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.png" title="jira" width="60" height="50">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.png" title="jira" width="80" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" width="50" height="50">
-    <img src="https://seekvectorlogo.com/wp-content/uploads/2021/12/bizagi-vector-logo-2021.png" title="bizagi" width="60" height="50">
+    <img src="https://seekvectorlogo.com/wp-content/uploads/2021/12/bizagi-vector-logo-2021.png" title="bizagi" width="70" height="50">
     <img src="https://discoversdkcdn.azureedge.net/runtimecontent/companyfiles/5803/2278/thumbnail.png?v131140816767671932" title="RationalRose" width="50" height="50">
 </div>
