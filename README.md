@@ -5,8 +5,35 @@
 </div>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/anyelius64/">
+    <a href="https://www.linkedin.com/in/anyelius64/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanyelius64%2F-blue" />
     </a>
+    <a href="https://wa.me/51995536118" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-Contacteme!!-green"/>
+    </a>
+    <a href="mailto:10200143@unmsm.edu.pe" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-Contacteme!!-red"/>
+    </a>
+    <a href="mailto:anyelius_64@hotmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Hotmail-Contacteme!!-blue"/>
+    </a>
 </div>
-<hr>
+---
+<div align="left">
+  <h3>Languajes and tools</h3>
+    <img src="" title="c++" width="40" height="40">
+    <img src="" title="java" width="40" height="40">
+    <img src="" title="sqlserver" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"  width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript"  width="40" height="40">
+    <img src="" title="html" width="40" height="40">
+    <img src="" title="css" width="40" height="40">  
+    <img src="" title="testlink" width="40" height="40">
+    <img src="" title="selenium" width="40" height="40">
+    <img src="" title="project" width="40" height="40">
+    <img src="" title="jira" width="40" height="40">
+    <img src="" title="trello" width="40" height="40">
+    <img src="" title="bizagi" width="40" height="40">
+    <img src="" title="RationalRose" width="40" height="40">
+    <img src="" title="figma" width="40" height="40">
+</div>
