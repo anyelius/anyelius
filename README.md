@@ -21,19 +21,20 @@
 ---
 <div align="left">
   <h3>Languajes and tools</h3>
-    <img src="" title="c++" width="40" height="40">
-    <img src="" title="java" width="40" height="40">
-    <img src="" title="sqlserver" width="40" height="40">
+    <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" title="c++" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" width="40" height="40">
+    <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" title="sqlserver" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"  width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript"  width="40" height="40">
-    <img src="" title="html" width="40" height="40">
-    <img src="" title="css" width="40" height="40">  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" width="40" height="40">  
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.png" title="figma" width="40" height="40">
+    <img src="https://cdn.worldvectorlogo.com/logos/coreldraw-gs2019-2.svg" title="crelDraw" width="40" height="40">
     <img src="" title="testlink" width="40" height="40">
-    <img src="" title="selenium" width="40" height="40">
-    <img src="" title="project" width="40" height="40">
-    <img src="" title="jira" width="40" height="40">
-    <img src="" title="trello" width="40" height="40">
-    <img src="" title="bizagi" width="40" height="40">
-    <img src="" title="RationalRose" width="40" height="40">
-    <img src="" title="figma" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" width="40" height="40">
+    <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Project_(2019%E2%80%93present).svg#/media/File:Microsoft_Project_(2019%E2%80%93present).svg" title="project" width="40" height="40">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.png" title="jira" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" width="40" height="40">
+    <img src="https://seekvectorlogo.com/wp-content/uploads/2021/12/bizagi-vector-logo-2021.png" title="bizagi" width="40" height="40">
+    <img src="https://discoversdkcdn.azureedge.net/runtimecontent/companyfiles/5803/2278/thumbnail.png?v131140816767671932" title="RationalRose" width="40" height="40">
 </div>
