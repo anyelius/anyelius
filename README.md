@@ -5,20 +5,15 @@
 </div>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/anyelius64/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanyelius64%2F-blue" />
-    </a>
     <a href="https://wa.me/51995536118" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-Contacteme!!-green"/>
     </a>
-    <a href="mailto:10200143@unmsm.edu.pe" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-Contacteme!!-red"/>
-    </a>
-    <a href="mailto:anyelius_64@hotmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Hotmail-Contacteme!!-blue"/>
+    <br>
+    <a href="https://www.linkedin.com/in/anyelius64/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanyelius64%2F-blue" />
     </a>
 </div>
-<br>
+
 <div align="left">
   <h3>Languajes and tools</h3>
     <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" title="c++" width="50" height="50">
