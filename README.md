@@ -17,20 +17,18 @@
 <div align="left">
   <h3>Languajes and tools</h3>
     <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" title="sqlserver" width="80" height="70">
-    <br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="c++" width="60" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"  width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript"  width="50" height="50">
-    <br>
+    <hr>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" width="50" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" width="50" height="50">  
     <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.png" title="figma" width="80" height="50">
     <img src="https://cdn.worldvectorlogo.com/logos/coreldraw-gs2019-2.svg" title="crelDraw" width="50" height="50">
-    <br>
-    <img src="https://www.ggateway.tech/wp-content/uploads/2022/02/TestLink-logo.png" title="testLink" width="70" height="70">
+    <img src="https://www.ggateway.tech/wp-content/uploads/2022/02/TestLink-logo.png" title="testLink" width="90" height="90">
     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" width="50" height="50">
-    <br>
+    <hr>
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.png" title="jira" width="100" height="70">
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" width="70" height="70">
     <img src="https://seekvectorlogo.com/wp-content/uploads/2021/12/bizagi-vector-logo-2021.png" title="bizagi" width="80" height="50">
