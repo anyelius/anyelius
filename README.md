@@ -36,3 +36,11 @@
     <img src="https://seekvectorlogo.com/wp-content/uploads/2021/12/bizagi-vector-logo-2021.png" title="bizagi" width="70" height="50">
     <img src="https://discoversdkcdn.azureedge.net/runtimecontent/companyfiles/5803/2278/thumbnail.png?v131140816767671932" title="RationalRose" width="50" height="50">
 </div>
+
+### MY stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anyelius&theme=bear&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anyelius&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anyelius&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
