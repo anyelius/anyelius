@@ -26,7 +26,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" width="50" height="50">  
     <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.png" title="figma" width="80" height="50">
     <img src="https://cdn.worldvectorlogo.com/logos/coreldraw-gs2019-2.svg" title="crelDraw" width="50" height="50">
-    <img src="https://www.ggateway.tech/wp-content/uploads/2022/02/TestLink-logo.png" title="testLink" width="90" height="90">
+    <img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/04/testlink-logo.png" title="testLink" width="120" height="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" width="50" height="50">
     <hr>
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.png" title="jira" width="100" height="70">
